@@ -1,0 +1,30 @@
+website - > https://www.anm.ro/nomenclator/medicamente?page=x
+
+1- Intram pe website
+2- intram pe toate cele 1k+ pagini  si ne uitam dupa date -> 
+    - > adaugam ce nou
+    - > verificam schimbari/modificari si notificam 
+        -> modificam in baza de date dar pastram o compie la ce era inainte 
+        LIVE - OLD 
+
+    Pentru pdf 
+        : request la server si ne descarca pdf (intern pe server) il transformam in ceva mai lightweight
+    
+
+ideas: 
+    implementare filtre -> daca reusim sa scaotem ce e in format pdf in ceva mai "weblike"
+
+frontend: 
+    - generator de atc
+    - 
+
+backend:
+    - cautare dupa atc(atc partial)
+    - suporta oauth 
+    - api de search (get?medicament=whever -> )
+
+
+
+    python  - >
+    mongodb - > 
+    - ( later load balancing/anti ddos cloudflare )
